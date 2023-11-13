@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	"github.com/brizaldi/go-exercise/pkg/config"
-	"github.com/brizaldi/go-exercise/pkg/handlers"
+	"github.com/brizaldi/go-playground/pkg/config"
+	"github.com/brizaldi/go-playground/pkg/handlers"
 	"github.com/go-chi/chi/v5"
 	"github.com/go-chi/chi/v5/middleware"
 )

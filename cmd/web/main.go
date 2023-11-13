@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/alexedwards/scs/v2"
-	"github.com/brizaldi/go-exercise/pkg/config"
-	"github.com/brizaldi/go-exercise/pkg/handlers"
-	"github.com/brizaldi/go-exercise/pkg/render"
+	"github.com/brizaldi/go-playground/pkg/config"
+	"github.com/brizaldi/go-playground/pkg/handlers"
+	"github.com/brizaldi/go-playground/pkg/render"
 )
 
 const portNumber = ":8080"

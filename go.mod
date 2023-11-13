@@ -1,4 +1,4 @@
-module github.com/brizaldi/go-exercise
+module github.com/brizaldi/go-playground
 
 go 1.21.4
 

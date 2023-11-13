@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/brizaldi/go-exercise/pkg/config"
-	"github.com/brizaldi/go-exercise/pkg/models"
+	"github.com/brizaldi/go-playground/pkg/config"
+	"github.com/brizaldi/go-playground/pkg/models"
 )
 
 var app *config.AppConfig
